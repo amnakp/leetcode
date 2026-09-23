@@ -4,40 +4,40 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/amnakp/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/amnakp/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amnakp/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amnakp/leetcode/tree/master/0027-remove-element) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/amnakp/leetcode/tree/master/0001-two-sum) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/amnakp/leetcode/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/amnakp/leetcode/tree/master/0263-ugly-number) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amnakp/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amnakp/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amnakp/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amnakp/leetcode/tree/master/0027-remove-element) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/amnakp/leetcode/tree/master/0014-longest-common-prefix) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/amnakp/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
