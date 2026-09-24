@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/amnakp/leetcode/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/amnakp/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
