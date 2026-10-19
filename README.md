@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amnakp/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amnakp/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/amnakp/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amnakp/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/amnakp/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amnakp/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amnakp/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 <!---LeetCode Topics End-->
