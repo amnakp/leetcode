@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/amnakp/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/amnakp/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/amnakp/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/amnakp/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/amnakp/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/amnakp/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/amnakp/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/amnakp/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
