@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amnakp/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amnakp/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amnakp/leetcode/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/amnakp/leetcode/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/amnakp/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/amnakp/leetcode/tree/main/0066-plus-one/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/amnakp/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/amnakp/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/amnakp/leetcode/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
