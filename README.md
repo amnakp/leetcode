@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/amnakp/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/amnakp/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/amnakp/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0263-ugly-number](https://github.com/amnakp/leetcode/tree/master/0263-ugly-number) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/amnakp/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/amnakp/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/amnakp/leetcode/tree/main/0046-permutations/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/amnakp/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
